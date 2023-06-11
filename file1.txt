@@ -1,2 +1,4 @@
 first line in that file
 seond line by local master
+3rd line added in local feature.
+
