@@ -1,1 +1,2 @@
 first line in that file
+seond line by local master
